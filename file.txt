@@ -5,3 +5,4 @@ this is 1st line for feature2 branch.
 this is 1st line for feature4 branch.
 this is 1st line for feature3 branch.
 new commit-1 add into feature4 branch.
+new commit-2 add into feature4 branch.
